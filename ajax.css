@@ -1,0 +1,41 @@
+#content{
+    color: black;
+    height: 100%;
+    font-size: 24px; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    line-height: 2; 
+    margin-right: 35%;
+}
+body {
+    background-image: url('https://image.jimcdn.com/app/cms/image/transf/none/path/sc77e1e58a42c514a/image/i9977c7b3a6db203a/version/1516578954/image.jpg');
+    background-size: cover; /* Para cubrir todo el cuerpo */
+    background-position: center; /* Para centrar la imagen en el cuerpo */
+}
+
+
+#title{
+    color: black;
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 33%;
+    line-height: 3; 
+}
+
+.video-container{
+   
+    justify-content: center;
+    align-items: center; 
+    margin-left: 25%;
+}
+
+.boton{
+    justify-content: center;
+    align-items: center; 
+    margin-left: 47%;
+    line-height: 4; 
+}
